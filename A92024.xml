@@ -1,0 +1,491 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Britains' bitter lamentation over the death of their most valiant, and most puissant General George Lord Monck, Lord Duke of Albemarle, &amp;c.</title>
+            <author>Rowland, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92024</idno>
+            <idno type="STC">Wing R2069A</idno>
+            <idno type="STC">ESTC R182866</idno>
+            <idno type="EEBO-CITATION">43077585</idno>
+            <idno type="OCLC">ocm 43077585</idno>
+            <idno type="VID">151677</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92024)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151677)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2270:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Britains' bitter lamentation over the death of their most valiant, and most puissant General George Lord Monck, Lord Duke of Albemarle, &amp;c.</title>
+                  <author>Rowland, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Johnson for William Miller, at the Gilded Acorn in St. Pauls Church yard, near the Little North door,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Johannes Rowland.</note>
+                  <note>In verse.</note>
+                  <note>Top margin is cropped with slight loss of text.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670.</term>
+               <term>Elegiac poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151677:1" rendition="simple:additions"/>
+            <p>GREAT BRITAINS Bitter Lamentation OVER THE DEATH OF THEIR Moſt Valiant, and Moſt Puiſſant GENERAL George Lord Monck, Lord Duke of <hi>Albemarle,</hi> &amp;c.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Tho. Johnſon</hi> for <hi>William Miller,</hi> at the Gilded Acorn in St. <hi>Pauls</hi> Church-yard, near the Little North door. 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:151677:2"/>
+            <head>Great Britains Bitter Lamentation, <hi>&amp;c.</hi>
+            </head>
+            <l>GReat <hi>D<g ref="char:V">Ʋ</g>KE,</hi> the Wonder of theſe later Times!</l>
+            <l>When, ſince the <hi>Judges</hi> rul'd long dead &amp; gone,</l>
+            <l>We were, as <hi>Judah,</hi> puniſh'd for our Crimes,</l>
+            <l>He, like to <hi>Jephtha, Sampſon, Gideon,</hi>
+            </l>
+            <l>Was rais'd Deliverer us to reſtore,</l>
+            <l>When men afflicted, did Gods aid implore.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>2</label> The Scriptures ſay that <hi>Moſes</hi> face did ſhine</l>
+            <l>So bright, that <hi>Iſrael</hi> durſt not come near,</l>
+            <l>Till with a Vail he hid thoſe Rays Divine,</l>
+            <l>That ſtruck the Rebels with a pannick fear;</l>
+            <l>Our Leader was by Nature vail'd, which Hue,</l>
+            <l>He remov'd, when he Rebellion ſlew.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>3</label> He ſtood behinde a Curtain, where he ſaw</l>
+            <l>Others, himſelf unſeen; and for a ſpace,</l>
+            <l>When that he pleas'd, he would the Curtain draw,</l>
+            <l>Opening the Caſement, the <hi>Amnion</hi> of's Face:</l>
+            <l>And wiſe men ſay, Great Honors win he ſhall,</l>
+            <l>That's born with's Face wrapt in his Mothers <hi>Caul.</hi>
+            </l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>4</label> If ever man had <hi>Gyges</hi> Ring, 'twas he,</l>
+            <l>To walk inviſible, and not be ſeen;</l>
+            <l>Yet his juſt Actions did with Light agree,</l>
+            <l>As if that Maſque he wore had never been;</l>
+            <l>He us'd it not works wicked to conceal,</l>
+            <l>But ſecret Plots of Rebels to reveal.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>5</label> When long Inteſtine Wars this Land annoy'd,</l>
+            <l>Our fair <hi>Andromeda</hi> ſought to devour,</l>
+            <l>This Dragon was at laſt by him deſtroy'd,</l>
+            <l>Bringing in again the Lawful Power,</l>
+            <l>Freeing the Captive-People from their Chains,</l>
+            <l>And will be famous whileſt the World remains.</l>
+            <l>
+               <pb facs="tcp:151677:2"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>6</label> The Land as with <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>And many years we ſought for help in vain;</l>
+            <l>'Twas not an eaſie Task he undertook,</l>
+            <l>To bring three Kingdoms dead, to Life again;</l>
+            <l>
+               <hi>Great Britains</hi> Bars and Bolts rent in ſunder,</l>
+            <l>No man bore the weight Lord <hi>Monck</hi> ſtood under.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>7</label>'Twixt Hope and Fear mens mindes were divided;</l>
+            <l>Our Woe or Weal ſtood on that Days Succeſs,</l>
+            <l>Lord <hi>Monck</hi>'s the Umpire by whom all's decided,</l>
+            <l>On him then lay three Kingdoms Happineſs;</l>
+            <l>He held the Ballance, and next under God,</l>
+            <l>He then had leave to keep, or burn the Rod.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>8</label> Some doubt, ſome rage, ſome wonder, others pray.</l>
+            <l>Some boldly ask the Queſtion, Who is this!</l>
+            <l>That ſtormy Winds, and boiſt'rous Seas obey,</l>
+            <l>On whom depends our chiefeſt Earthly Bliſs?</l>
+            <l>This is Lord <hi>Monck</hi> ne're to be forgotten,</l>
+            <l>His Name ſhall live when we are dead and rotten.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>9</label> Let his <hi>Epicaeds</hi> and <hi>Threnodies</hi> have room</l>
+            <l>Within your <hi>Archives,</hi> always to be found,</l>
+            <l>And let his <hi>Statue</hi> to the Day of Doom,</l>
+            <l>With Kings and Princes ſtand on equal ground;</l>
+            <l>That as th' ungrateful World doth flit away,</l>
+            <l>Theſe may be Witneſſes another day.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>10</label> Remember but the ſtreights that we were in,</l>
+            <l>When this ſtout Heros for us bravely drew</l>
+            <l>His Conquering Sword, which paſt through thick and thin,</l>
+            <l>Till all our Enemies he did ſubdue,</l>
+            <l>Yet by his Prudence made the Conqueſt good,</l>
+            <l>The like ne'r heard, ſcarce ſpilt one drop of blood.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>11</label> For the obſerv'd a middle Courſe to ſteer,</l>
+            <l>And then at Anchor would he ſafely ride,</l>
+            <l>Nor <hi>Sylla,</hi> nor <hi>Carybdis</hi> did he fear,</l>
+            <l>He left them both ſometimes on either ſide;</l>
+            <l>Keeping an even Trace, as he thought meet,</l>
+            <l>As wiſe as <hi>Daedalus</hi> that fled from <hi>Creet.</hi>
+            </l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>12</label> No man but he that ſayl'd upon this <hi>Rhomb,</hi>
+            </l>
+            <l>Like to the South, the North-weſt Paſſage found,</l>
+            <l>
+               <pb facs="tcp:151677:3"/>
+Which prov'd to be the ſhorteſt <hi>Loxodrome,</hi>
+            </l>
+            <l>To all that were for his long Voyage bound;</l>
+            <l>He choſe one Point i'th'Compaſs, that did bend</l>
+            <l>Directly to the Port he did intend.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>13</label>'Gainſt Wind and Tide it was in vain to ſtrive,</l>
+            <l>The Current ran too ſtrong for to prevail,</l>
+            <l>When others ſunk, he kept himſelf alive,</l>
+            <l>He fetcht a Compaſs, and let fall his Sail;</l>
+            <l>Like <hi>Jaſon</hi> and his <hi>Arganauts</hi> of <hi>Greece,</hi>
+            </l>
+            <l>That ſayl'd to <hi>Colchis</hi> for the <hi>Golden Fleece.</hi>
+            </l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>14</label> Or like the <hi>Sun</hi> within the <hi>Zodiack,</hi>
+            </l>
+            <l>By the Firſt Mover forc'd another away;</l>
+            <l>At the ſame time he did two Motions make,</l>
+            <l>And by Degrees got forward every day;</l>
+            <l>Though the diurnal Waft did him confine,</l>
+            <l>He mounts to th' <hi>Tropick</hi> by a <hi>Spiral Line.</hi>
+            </l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>15</label> He fought to make thoſe Words prophetick good,</l>
+            <l>Stampt on the <hi>Georges</hi> by Royal Command,</l>
+            <l>
+               <hi>Religio Proteſtantium, Salus Regni,</hi>
+            </l>
+            <l>
+               <hi>Libertas Populi Anglicani.</hi>
+            </l>
+            <l>For which our Sovereign <hi>Charles</hi> did ſpend his Blood,</l>
+            <l>To keep down Anarchy with's ſacred Hand;</l>
+            <l>Preferring always before his own Health,</l>
+            <l>The Kingdoms, Churches, and the Peoples Wealth.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>16</label> This Honour he obtain'd by Loyalty,</l>
+            <l>True Valour's always faithful to the Crown,</l>
+            <l>From hence let all men learn Fidelity,</l>
+            <l>Kings ne'r want Subjects to pull Rebels down;</l>
+            <l>We love his Memory moſt for this thing,</l>
+            <l>He made three Kingdoms ſay, <hi>God ſave the King.</hi>
+            </l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>17</label> Some are to Kings, and ſome to Subjects dear,</l>
+            <l>Its hard to finde a Man can pleaſe them all;</l>
+            <l>Such was his Merit whileſt he lived here,</l>
+            <l>He was belov'd of both in general;</l>
+            <l>Maugre all malice, and his Foes deſpite,</l>
+            <l>He was the Kings, and Subjects Favorite.</l>
+            <l>
+               <pb facs="tcp:151677:3"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>18</label> In Wars none nam'd but <hi>Monck,</hi> Lord General,</l>
+            <l>In Peace a true Monaſtique Life he lead,</l>
+            <l>Sequeſtred from the world, ſcarce nam'd at all;</l>
+            <l>As not alive, but dead and buried:</l>
+            <l>The day he made our Peace, he rang his Knell,</l>
+            <l>Firſt did our work, then bid us all farewel.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>19</label> Stout as <hi>Hercules,</hi> yet refuſing Praiſe,</l>
+            <l>For when the Souldiers gave him praiſe was due,</l>
+            <l>He ſtrove for to divide the Crown of Bays;</l>
+            <l>Part of that Praiſe, ſaith he, belongs to you.</l>
+            <l>
+               <hi>Debetur Gloria vobis, Non ſolus vici.</hi>
+            </l>
+            <l>
+               <hi>Moſes</hi> for Meekneſs, and in ſetting forth,</l>
+            <l>The mildeſt Eſteemer of his own worth.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>20</label> No noiſe were heard, when greateſt things were done,</l>
+            <l>As if not willing that the world ſhould know.</l>
+            <l>The deepeſt Rivers ever ſtilleſt run,</l>
+            <l>The ſhallow Streams do murmur as they go;</l>
+            <l>All things he did, the reaſon may be geſt,</l>
+            <l>Were forg'd within the Shop of his own Breſt.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>21</label> The ſturdy <hi>Sword-Fiſh</hi> that came poſting in,</l>
+            <l>To bring ſad News of what ſhould ſhortly fall,</l>
+            <l>Told us that God was angry for our ſin,</l>
+            <l>Would take from us our <hi>Worthy General;</hi>
+            </l>
+            <l>Whoſe Death three Nations ought to lament,</l>
+            <l>We pray God ſend us grace for to repent.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>22</label> We know not yet the Treaſure we have loſt,</l>
+            <l>Nor ſhould we want, ſcarce for to finde his like,</l>
+            <l>When things were out of order turn'd and toſt,</l>
+            <l>Then was the Iron hot for him to ſtrike;</l>
+            <l>His Valour and his Wiſdom joyntly ſtand,</l>
+            <l>'Tis hard to ſay which had the upper-hand.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>23</label> A faithful Friend at need to Monarchy,</l>
+            <l>Th' oppreſt Subjects Helper to their Right,</l>
+            <l>Rebuilder of Collapſed Hierarchy,</l>
+            <l>The plundred Lawyers Advocate by might;</l>
+            <l>Thus all Degrees, as I pay mine in Verſe,</l>
+            <l>Owe ſomething as a Tribute to his Herſe.</l>
+            <l>
+               <pb facs="tcp:151677:4"/>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>24</label> The Prince and Peoples Joy, Phanatiques Rod,</l>
+            <l>Reſtorer of the Breach; what ſhall we ſay?</l>
+            <l>
+               <hi>Great Britains Paladium,</hi> ſent from God,</l>
+            <l>Whoſe valiant Acts no Time can waſh away:</l>
+            <l>He was both lov'd and fear'd, and knew full well,</l>
+            <l>Were it in Peace, or War, for to excel.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>25</label> Read all the Hiſtories were pen'd of old,</l>
+            <l>Search all the Monuments that you can finde,</l>
+            <l>Count all the famous Stories that are told,</l>
+            <l>Call the <hi>Nine Worthies,</hi> and the reſt to minde;</l>
+            <l>Thoſe that moſt dear to them their Countreys held,</l>
+            <l>Our Loſs is more than can be parallel'd.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>26</label> Let no Detractors from him derogate,</l>
+            <l>Saying, As much ſome other might have done,</l>
+            <l>He doubtleſs was the Man ordain'd by Fate,</l>
+            <l>None proſper'd like him ſince the Wars begun;</l>
+            <l>St. <hi>George for England</hi> men were wont to call,</l>
+            <l>With him compar'd, was St. <hi>George</hi> Typical.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>27</label> To ſhew in time another <hi>George</hi> ſhould come,</l>
+            <l>To whom moſt Subjects ſhould due Homage pay;</l>
+            <l>At laſt St. <hi>George</hi> ſucceeded in his room,</l>
+            <l>Whom cruel Death hath lately ſnatcht away;</l>
+            <l>Let all true Hearts lament with doleful cryes,</l>
+            <l>Let Tears like Rivers trickle from your eyes.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>28</label> This Winter cold began to grow ſo ſtrong,</l>
+            <l>When we began his Death for to bemoan;</l>
+            <l>Great fear there was ſhould it continue long,</l>
+            <l>All men, like <hi>Niobe,</hi> would freeze to ſtone,</l>
+            <l>Becauſe we were of him we lov'd bereft,</l>
+            <l>Reſolv'd to weep till there's no moiſture left.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>29</label> The Land is dark, whilſt moſt are cloth'd in black,</l>
+            <l>Ninety 's the Elevation of our Pole,</l>
+            <l>Or elſe our Sun is ſome Degrees gone back,</l>
+            <l>To give the People leave for to condole</l>
+            <l>Our Loſs; no Drapers can ſupply our Needs,</l>
+            <l>That all that would be clad in Mourning-weeds.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>30</label> Such publick Perſons cannot die alone,</l>
+            <l>A general Mortality we dread;</l>
+            <l>
+               <pb n="7" facs="tcp:151677:4"/>
+The <hi>Choice</hi> he made, ſoon after him was gone,</l>
+            <l>Living no longer, when her Lord was dead;</l>
+            <l>The Stars that are depriv'd of the Suns light,</l>
+            <l>Do loſe their luſtre, waxing dark as Night.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>31</label> Yet he hath left a gallant Sprout behinde,</l>
+            <l>A hopeful Plant to ſtand up in his room,</l>
+            <l>To keep his <hi>Grace</hi>'s Vertues ſtill in minde,</l>
+            <l>A richer Monument than any Tomb</l>
+            <l>Of Braſs or Marble; the Juſt cannot die,</l>
+            <l>Juſt men are in Eternal Memory.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>32</label> Quarter this Iſle, and at each Corner ſet</l>
+            <l>Pyramides of Braſs, and place them thus</l>
+            <l>With rich Inſcriptions, men may ne'r forget</l>
+            <l>What our Tutelar Saint hath done for us,</l>
+            <l>Uniting Hearts divided, ſetling Peace,</l>
+            <l>As when the Winds are laid, the Billows ceaſe.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>33</label> When true Nobility was quite forgot,</l>
+            <l>And Gentry from Pageantry were not known;</l>
+            <l>When moſt men ſeem'd to be what they were not,</l>
+            <l>And no man living knew what was his own,</l>
+            <l>He pull'd their Vizards off, and did decree</l>
+            <l>Who had the Right, no <hi>Blepharo</hi> but he.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>34</label> The Weſt his Birth count their chiefeſt Glory,</l>
+            <l>The Conquer'd <hi>Scotch</hi> extol him in the North,</l>
+            <l>The beaten <hi>Dutch</hi> will be the Eaſtern Story,</l>
+            <l>The South his Life and Worthy Deeds ſet forth.</l>
+            <l>The <hi>Eaſt,</hi> the <hi>Weſt,</hi> the <hi>North,</hi> the <hi>South</hi> remain</l>
+            <l>Debters to his ſtrong Heart, and prudent Brain.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>35</label> As <hi>Sampſon</hi> did by Night, when he by Day,</l>
+            <l>Pull'd down the City Gates with might and main,</l>
+            <l>They fear'd he would have carry'd them away;</l>
+            <l>He pull'd them down, to ſet them up again:</l>
+            <l>For which they claim, as he oblig'd them all,</l>
+            <l>To be Chief Mourners at his Funeral.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>36</label> To mourn as men without hope, is forbid,</l>
+            <l>For they that die, to Life again ſhall riſe,</l>
+            <l>And therefore was <hi>Moſes</hi> dead Body hid,</l>
+            <l>Leſt th' unbelieving Jews ſhould idolize</l>
+            <l>
+               <pb n="8" facs="tcp:151677:5"/>
+Funeral Pomps for great Thankſgiving,</l>
+            <l>The Dead gain nothing by't, but the Living.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>37</label> The Name of <hi>George</hi> was famous long before,</l>
+            <l>As if there lay ſome Vertue in that Name,</l>
+            <l>Say but St. <hi>George,</hi> you need to ſay no more</l>
+            <l>To ſcare the Rebels, and Fanaticks tame:</l>
+            <l>
+               <hi>George</hi> Duke of <hi>Buckingham,</hi> whoſe Fame loud rings,</l>
+            <l>Was moſt belov'd of ſubjects, by two Kings.</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>38</label> More might be ſaid, which can give no offence,</l>
+            <l>Of Famous <hi>Georges,</hi> both in Church and State,</l>
+            <l>For their good Deeds, 't is the laſt Recompence,</l>
+            <l>That mortal men may have immortal Date:</l>
+            <l>We muſt forbear, it cannot be expreſt</l>
+            <l>The Joys they finde in Everlaſting Reſt</l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>39</label> When Great <hi>Guſtavus</hi> Honors did confer</l>
+            <l>On Warlike Perſons that deſerv'd it beſt,</l>
+            <l>Noble Lord <hi>Craven</hi> then he did prefer,</l>
+            <l>Giving him Honor far above the reſt;</l>
+            <l>In ſuch like words, Sword flouriſht o're his head,</l>
+            <l>
+               <hi>Riſe up beſt Souldier ever</hi> England <hi>bred.</hi>
+            </l>
+            <l>
+               <label type="milestone">
+                  <seg type="milestoneunit">verse </seg>40</label> Who can dam up our overflowing Tears?</l>
+            <l>Or ſtanch the Wound that yet ſo fiercely bleeds?</l>
+            <l>The Land is fill'd with Jealouſies and Fears,</l>
+            <l>Till one for Valour like his <hi>GRACE</hi> ſucceeds;</l>
+            <l>Whilſt the world laſts, let ſuch men never ceaſe,</l>
+            <l>To fight our Battels, and preſerve our Peace.</l>
+            <closer>Vivat Rex Maximus <hi>Carolus Secundus,</hi> &amp; Illuſtriſſimus<hi>Jacobus</hi> Dux <hi>Eboracenſis,</hi> &amp; tota Inclytiſſima Progonies Regalis,<lb/>
+Animitus precatur.</closer>
+            <closer>Inſigniſsimi <hi>Caroli Richmondiae</hi> &amp; <hi>Lenoxii,</hi> Ducis, Capellanus humilimus, &amp; Rector Parochiae de <hi>Fotes-Cray,</hi> in Comitatu <hi>Kantij.</hi>
+               <signed>Johannes Rowland.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
